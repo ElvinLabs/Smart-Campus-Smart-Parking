@@ -1,6 +1,6 @@
 # Smart Campus Phase 1: Smart Parking Sensor Network - IoT/ES
 
-## Group 5 (Final Year Project - Department of Computer Engineering, Faculty of Engineering, University of PEradeniya)
+## Group 5 (Final Year Project - Department of Computer Engineering, Faculty of Engineering, University of Peradeniya)
 
 
 - E/11/037 Bandara H.M.A.P.K
